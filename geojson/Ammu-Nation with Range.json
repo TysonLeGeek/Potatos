@@ -42,7 +42,7 @@
       "type": "Feature",
       "properties": {
         "name": "Ferro Velho (Próx. ao Lixeiro)",
-        "imgname":"images/ammunation/lixeiro.jpg",
+        "imgname":"images/ammunation/ferrovelho.jpg",
         "ptype": "Ammu-Nation w/ Gun Range"
       },
       "geometry": {
