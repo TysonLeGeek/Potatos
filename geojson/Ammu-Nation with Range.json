@@ -4,13 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Downtown Los Santos Ammu-Nation",
+        "name": "Ferro Velho",
         "imgname":"images/ammunation/downtownlossantos.jpg",
         "ptype": "Ammu-Nation w/ Gun Range"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [3768.25, 1937]
+        "coordinates": [3347, 6689]
       }
     },
     {
