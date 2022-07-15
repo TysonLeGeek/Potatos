@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Petrolifica (Comunidade)",
-        "imgname":"images/ammunation/perolifica.jpg",
+        "imgname":"images/ammunation/petrolifica.jpg",
         "ptype": "Ammu-Nation w/ Gun Range"
       },
       "geometry": {
