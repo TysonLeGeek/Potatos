@@ -3,7 +3,7 @@
   "features": [{
       "type": "Feature",
       "properties": {
-        "name": "Banco Central - CAM(1,2 e 3)",
+        "name": "Banco Central - /CAM (1,2,3)",
         "imgname":"images/ammunation/bancocentral.jpg",
         "ptype": "Ammu-Nation"
       },
@@ -14,13 +14,288 @@
     }, {
       "type": "Feature",
       "properties": {
-        "name": "Hawick Ammu-Nation",
-        "imgname":"images/ammunation/hawick.jpg",
+        "name": "LTD (conveniência) /CAM (4)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
         "ptype": "Ammu-Nation"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [3921, 2638.5]
+        "coordinates": [3716, 1507]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Rob's (Loja de Bebidas) /CAM (5)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2772, 2421]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Rob's (Loja de Bebidas) /CAM (6)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2958, 2071]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "LTD (conveniência) /CAM (7)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3279, 2052]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "24/7 (conveniência) /CAM (8)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3776, 1782]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Rob's (Loja de Bebidas) /CAM (9)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4505, 2019]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "LTD (conveniência) /CAM (10)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4522, 2459]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "24/7 (conveniência) /CAM (11)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4003, 2885]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "LTD (conveniência) /CAM (12)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2552, 3192]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Rob's (Loja de Bebidas) /CAM (13)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1797, 2926]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "24/7 (conveniência) /CAM (14)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1746, 3079]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "24/7 (conveniência) /CAM (15)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1618, 3318]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "24/7 (conveniência) /CAM (16)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4118, 4428]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Rob's (Loja de Bebidas) /CAM (17)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4532, 4454]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "24/7 (conveniência) /CAM (18)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5518, 4833]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "24/7 (conveniência) /CAM (19)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5050, 5143]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "24/7 (conveniência) /CAM (20)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4878, 6893]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Potatos Bank (banco) /CAM (21)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3960, 2485]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Potatos Bank (banco) /CAM (22)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3858, 1979]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Potatos Bank (banco) /CAM (23)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3526, 2631]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Potatos Bank (banco) /CAM (24)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2954, 2452]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Potatos Bank (banco) /CAM (25)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1803, 2986]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Potatos Bank (banco) /CAM (26)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3686, 6933]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Liquor (EM BREVE) /CAM (27)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3648, 6840]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Don's Country Store (EM BREVE) /CAM (28,29,30)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3851, 7046]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Vangelico (Joalheria) /CAM (31,32,33,34)",
+        "imgname":"images/ammunation/ltdgrove.jpg",
+        "ptype": "Ammu-Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3343, 2513]
       }
     }
   ]
