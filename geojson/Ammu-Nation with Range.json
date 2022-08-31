@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petrolifica (Comunidade)",
+        "imgname":"images/ammunation/petrolifica.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4688, 1044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Ocean (Comunidade)",
+        "imgname":"images/ammunation/greatocean.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1775, 3693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deposito (Próx. ao Cassino)",
+        "imgname":"images/ammunation/deposito.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4399, 2586]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferro Velho (Próx. ao Lixeiro)",
+        "imgname":"images/ammunation/ferrovelho.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3418, 1558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamestown (Vagos)",
+        "imgname":"images/ammunation/jamestown.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3988, 1313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forum Drive",
+        "imgname":"images/ammunation/forumdrive.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3685, 1634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grove Street",
+        "imgname":"images/ammunation/grovestreet.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3800, 1409]
+      }
+
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fundição",
+        "imgname":"images/ammunation/fundição.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4454, 1361]
+      }
+
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grapeseed",
+        "imgname":"images/ammunation/grapeseed.jpg",
+        "ptype": "Ammu-Nation w/ Gun Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4908, 5800]
+      }
+
+    }
+  ]
+}
